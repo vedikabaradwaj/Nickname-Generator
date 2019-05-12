@@ -1,0 +1,43 @@
+
+#main {
+	transition: all 500ms linear;
+}
+#submit{
+	font-family:'Raleway', sans-serif;
+	font-size: 15px;
+	border-radius: 3px;
+	padding: 12px;
+}
+#division{
+	align-content: center
+}
+#heading{
+	font-family:'Raleway', sans-serif;
+	font-size: 50px;
+	color: white;
+   -webkit-text-stroke-width: 0.02px;
+   -webkit-text-stroke-color: black;
+}
+
+#nameinput, #objectinput{
+	padding: 12px;
+	border-width: 1px;
+	border-color: black;
+	border-radius: 3px;
+
+}
+#result{
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	color: ghostwhite;
+}
+#left-design{
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+#right-design{
+	position: fixed;
+	top:15px;
+	right:15px;
+}
